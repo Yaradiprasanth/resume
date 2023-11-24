@@ -1,0 +1,22 @@
+BODY{
+    text-align: center;
+}
+LI{
+    display:   inline;
+    padding: 20px;
+    color: whites;
+}
+header{
+    background-color: rgb(218, 161, 91);
+    padding: 20px;
+}
+img{
+    border-radius: 60px;
+}
+div{
+    background-color: yellowgreen;
+}
+.p1{
+    background-color:black;
+    color: white;
+}
